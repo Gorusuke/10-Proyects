@@ -29,9 +29,9 @@
 -   popup with text
 -   close btn popup with click event
 
-5. Purple Heart Rain
+5. Musical Note Rain
 
--   heart css
+-   Note css
 -   falling animation
 -   create heart
 -   add class
